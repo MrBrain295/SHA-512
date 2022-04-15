@@ -6,7 +6,6 @@
 # https://www.gnu.org/software/libc/manual/html_node/getpass.html
 # http://man7.org/linux/man-pages/man3/crypt.3.html
 # https://www.akkadia.org/drepper/sha-crypt.html
-# https://www.akkadia.org/drepper/SHA-crypt.txt
 # https://docs.python.org/3/library/crypt.html
 # https://sourceware.org/git/?p=glibc.git;a=tree;f=crypt;h=f9f4798146d372f4c1cdd01605eba039a0f1e99f;hb=refs/heads/release/2.23/master
 
