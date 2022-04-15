@@ -68,7 +68,7 @@ def sha512_crypt_core(password, salt, rounds):
 
 
 def myb64encode(stream):
-    assert type(stream) is bytes
+    assert isinstance(stream) is bytes
     stream_len = len(stream)
     if stream_len % 3 != 0:
         stream += b'\x00' * (3 - stream_len % 3)
